@@ -1,0 +1,35 @@
+# Data — never commit (DHS terms prohibit redistribution)
+*.dta
+*.sav
+*.parquet
+*.csv
+*.xlsx
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+project/
+UDHS 2022 Updated Dataset/
+uganda_parishes_2024/
+
+# Outputs
+ECI_Analysis_Outputs*/
+Objects/
+Tables/
+Charts/
+*.png
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
